@@ -6,6 +6,8 @@
 #main{
 
 }
+
+/* slider */
 #slider{
     width: 100%;
     position: relative;
@@ -16,7 +18,7 @@
     background: url('./img/responsive-web-design-caktus.gif') top center / cover no-repeat ;
 }
 
-/* slider */
+
 #slider .text-content{
     position: absolute;
     top: 15%;
